@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+    background-color: #1B244A;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+p {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: darkred;
+    background-color: #080001;
+    text-align: center;
+    font-weight: 400;
+    font-size: 90px;
+    line-height: 126.67px;
+    letter-spacing: 0%;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    border-radius: 3px;
+}
+
+h3 {
+    font-family: Verdana;
+    font-size: 40px;
+    text-align: center;
+    color: lightgrey;
+    margin: 10px;
+}
+
+button {
+    border-radius: 10px;
+    border-color: #9AABD8;
+    background-color: #1B244A;
+    padding: 10px;
+    margin: 5px;
+    color: #9AABD8;
+}
+
+.reset-container {
+display: flex;
+justify-content: center;
+}
